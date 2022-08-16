@@ -1,4 +1,6 @@
-[
+{
+    "user":
+            [
     {
       "user": "Ganesh",
       "Surname":"Alumuri",
@@ -90,4 +92,4 @@
       "Active": false
     }
   ]
-  
+}

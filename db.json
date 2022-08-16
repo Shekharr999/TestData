@@ -3,150 +3,90 @@
     "user": "Ganesh",
     "Surname":"Alumuri",
     "EmailAddress": "Ganesh@gmail.com",
-    "DepotName": "CSE",
-    "Role": "Admin",
     "Active": true,
-    "InsertedBy": "Brian Hart",
-    "ModifiedDate": "2/08/2022 12:30:26 PM"
   },
   {
     "user": "Brian",
     "Surname":"Hart",
     "EmailAddress": "Brianhart@gmail.com",
-    "DepotName": "Central Office",
-    "Role": "user",
     "Active": true,
-    "InsertedBy": "Brian Hart",
-    "ModifiedDate": "2/08/2022 12:30:26 PM"
   },
   {
     "user": "Selephi",
     "Surname":"Themba",
     "EmailAddress": "Selephithemba@gmail.com",
-    "DepotName": "Alrode Brewery",
-    "Role": "Admin",
     "Active": false,
-    "InsertedBy": "Brian Hart",
-    "ModifiedDate": "2/08/2022 12:30:26 PM"
   },
   {
     "user": "Pleter",
     "Surname":"Nagel",
     "EmailAddress": "Pleternagel@gmail.com",
-    "DepotName": "Rosslyn Brewery",
-    "Role": "Editor",
     "Active": true,
-    "InsertedBy": "Brian Hart",
-    "ModifiedDate": "2/08/2022 12:30:26 PM"
   },
   {
     "user": "Daniel",
     "Surname":"Purchase",
     "EmailAddress": "Danielpurchase@gmail.com",
-    "DepotName": "Central Office",
-    "Role": "user",
     "Active": false,
-    "InsertedBy": "Brian Hart",
-    "ModifiedDate": "2/08/2022 12:30:26 PM"
   },
   {
     "user": "Jonro",
     "Surname":"Beukes",
     "EmailAddress": "Jonrobeukes@gmail.com",
-    "DepotName": "Rosslyn Brewery",
-    "Role": "user",
     "Active": false,
-    "InsertedBy": "Brian Hart",
-    "ModifiedDate": "2/08/2022 12:30:26 PM"
   },
   {
     "user": "Johan",
     "Surname":"Grobbelaar",
     "EmailAddress": "Johangrobbelaar@gmail.com",
-    "DepotName": "Central Office",
-    "Role": "Editor",
     "Active": true,
-    "InsertedBy": "Brian Hart",
-    "ModifiedDate": "2/08/2022 12:30:26 PM"
   },
   {
     "user": "Ashley",
     "Surname":"Dyers",
     "EmailAddress": "Ashleydyers@gmail.com",
-    "DepotName": "Alrode Brewery",
-    "Role": "User",
     "Active": true,
-    "InsertedBy": "Brian Hart",
-    "ModifiedDate": "2/08/2022 12:30:26 PM"
   },
   {
     "user": "Noelene",
     "Surname":"Nkosli",
     "EmailAddress": "Noelenenkosli@gmail.com",
-    "DepotName": "Rosslyn Brewery",
-    "Role": "Admin",
     "Active": false,
-    "InsertedBy": "Brian Hart",
-    "ModifiedDate": "2/08/2022 12:30:26 PM"
   },
   {
     "user": "Handson",
     "Surname":"Nkosi",
     "EmailAddress": "Handsonnkosi@gmail.com",
-    "DepotName": "Alrode Brewery",
-    "Role": "User",
     "Active": true,
-    "InsertedBy": "Brian Hart",
-    "ModifiedDate": "2/08/2022 12:30:26 PM"
   },
   {
     "user": "Arnaldo",
     "Surname":"Classen",
     "EmailAddress": "Arnaldoclassen@gmail.com",
-    "DepotName": "Newlands Brewery",
-    "Role": "Editor",
     "Active": false,
-    "InsertedBy": "Brian Hart",
-    "ModifiedDate": "2/08/2022 12:30:26 PM"
   },
   {
     "user": "Sraddha",
     "Surname":"Atyam",
     "EmailAddress": "Sraddhaatyam@gmail.com",
-    "DepotName": "Central office",
-    "Role": "User",
     "Active": true,
-    "InsertedBy": "Brian Hart",
-    "ModifiedDate": "2/08/2022 12:30:26 PM"
   },
   {
     "user": "Bala",
     "Surname":"Shekhar",
     "EmailAddress": "Balashekhar@gmail.com",
-    "DepotName": "Ibayi Brewery",
-    "Role": "User",
     "Active": true,
-    "InsertedBy": "Brian Hart",
-    "ModifiedDate": "2/08/2022 12:30:26 PM"
   },
   {
     "user": "Chandra",
     "Surname":"Mouli",
     "EmailAddress": "Chandramouli@gmail.com",
-    "DepotName": "Prospection Brewery",
-    "Role": "Editor",
     "Active": false,
-    "InsertedBy": "Brian Hart",
-    "ModifiedDate": "2/08/2022 12:30:26 PM"
   },
   {
     "user": "Suryanarayan",
     "Surname":"Reddy",
     "EmailAddress": "Suryanarayanreddy@gmail.com",
-    "DepotName": "Prospection Brewery",
-    "Role": "User",
     "Active": false,
-    "InsertedBy": "Brian Hart",
-    "ModifiedDate": "2/08/2022 12:30:26 PM"
   }
 ]
